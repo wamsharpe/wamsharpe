@@ -1,5 +1,10 @@
-## Hi there 👋
+## Hey, it's Winona! </br>
 
+<b/> About me: </b> </br>
+🌱 Early career data analyst </br>
+🛡️ Interested in cyber security </br>
+⚙️ Trained in Agile project management </br>
+🚀 Previously: Video game release manager (5 years)
 <!--
 **wamsharpe/wamsharpe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
